@@ -1,8 +1,4 @@
-<style>
-  h1{
-    color:red;
-  }
-</style>
+
 
 <h1>Hello👋, I'm JM</h1>
 I am <strong>John Michael Balatico</strong>. An FEU Tech Student pursuing a degree in Computer Engineering. I like coding and reading manhwa.
@@ -22,4 +18,7 @@ Emmm-07/Emmm-07 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <h2>Language and Tools:</h2>
-
+<p>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
+ 
+</p>
