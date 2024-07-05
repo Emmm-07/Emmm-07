@@ -1,7 +1,7 @@
 
 
 <h1>Hello👋, I'm JM</h1>
-I am <strong>John Michael Balatico</strong>. An <a href="https://www.feutech.edu.ph/>"FEU Tech</a> Student pursuing a Bachelor's Degree in Computer Engineering :computer:. I like coding and reading manhwa.
+I am <strong>John Michael Balatico</strong>. An <a href="https://www.feutech.edu.ph/">FEU Institute of Technology</a> Student pursuing a Bachelor's Degree in Computer Engineering . I like coding💻  and reading manhwa 📖.
 I aspire to be a Full Stack Developer. I'm passionate about programming, and willing to learn different technologies.
 <br>
 
