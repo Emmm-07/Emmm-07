@@ -1,6 +1,7 @@
 <h1>Hello there 👋</h1>
 I am <strong>John Michael Balatico</strong>, my peers cal me JM. An FEU Tech Student pursuing a degree in Computer Engineering. I like coding and reading manhwa.
 I aspire to be a Full Stack Developer. I'm passionate about programming, and willing to learn different technologies.
+
 -👋 Hi, I’m Jm Balatico
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Fullstack Web Development
