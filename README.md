@@ -44,5 +44,5 @@ You can click the Preview link to take a look at your changes.
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>    
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a>   
-        <a href="https://ai2.appinventor.mit.edu/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/05/MIT-App-Inventor-Logo-Vector.jpg" alt="MIT-App-Inventor-Logo-Vector" width="70" height="60"/> </a> 
+        <a href="https://ai2.appinventor.mit.edu/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/05/MIT-App-Inventor-Logo-Vector.jpg" alt="MIT-App-Inventor-Logo-Vector" width="55" height="40"/> </a> 
     </p>
