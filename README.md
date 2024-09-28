@@ -8,7 +8,7 @@ I aspire to be a Software Engineer. I'm passionate about programming, and willin
 
 - 🌱 I’m currently learning Django and React integration<br>
 - 👀 I’m interested in Machine Learning
-- 📫 You can reach me with <a href="mailto:jmbalatico.28.jb@gmail.com" target="_blank">jmbalatico.28.jb@gmail.com</a>.<br>
+- 📫 You can reach me with <a href="mailto:jmbalatico.28.jb@gmail.com" target="_blank">jmbalatico.28.jb@gmail.com</a><br>
 - 🌐 View my web portfolio [here](https://jm-balatico.vercel.app/)
 - 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/john-michael-balatico-ba328530a/)
 <!---
