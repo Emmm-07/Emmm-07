@@ -48,3 +48,9 @@ You can click the Preview link to take a look at your changes.
         <a href="https://ai2.appinventor.mit.edu/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/05/MIT-App-Inventor-Logo-Vector.jpg" alt="MIT-App-Inventor-Logo-Vector" width="55" height="40"/> </a> 
         <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="55" height="40"/> </a>   
     </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmm-07&show_icons=true&locale=en&layout=compact" alt="Emmm-07" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmm-07&show_icons=true&locale=en" alt="Emmm-07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmm-07&" alt="Emmm-07" /></p>
