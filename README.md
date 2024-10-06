@@ -50,8 +50,8 @@ You can click the Preview link to take a look at your changes.
     </p>
 
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmm-07&show_icons=true&locale=en&layout=compact&theme=dark" alt="Emmm-07" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmm-07&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Emmm-07" /></div>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmm-07&show_icons=true&locale=en&theme=dark" alt="Emmm-07" /></div>
+<!--- <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmm-07&show_icons=true&locale=en&theme=dark" alt="Emmm-07" /></div> --->
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmm-07&&theme=dark" alt="Emmm-07" /></div>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmm-07&&theme=transparent" alt="Emmm-07" /></div>
