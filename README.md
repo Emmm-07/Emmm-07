@@ -57,3 +57,5 @@ You can click the Preview link to take a look at your changes.
 <!--- <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmm-07&show_icons=true&locale=en&theme=dark" alt="Emmm-07" /></div> --->
 
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmm-07&&theme=transparent" alt="Emmm-07" /></div>
+
+![](https://komarev.com/ghpvc/?username=julsCadenas&style=pixel)
