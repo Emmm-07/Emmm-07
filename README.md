@@ -30,7 +30,9 @@ You can click the Preview link to take a look at your changes.
         
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
-[![Django Rest Framework](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg)](https://www.django-rest-framework.org/)
+<a href="https://www.django-rest-framework.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="Django Rest Framework" width="40" height="40"/>
+</a>
 [![C++](https://skillicons.dev/icons?i=cpp)](https://www.w3schools.com/cpp/)
 [![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
 [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
