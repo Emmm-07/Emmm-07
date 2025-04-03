@@ -51,6 +51,7 @@ You can click the Preview link to take a look at your changes.
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Postman](https://skillicons.dev/icons?i=go)](https://go.dev/)
 
 </p>
 
