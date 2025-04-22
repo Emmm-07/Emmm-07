@@ -55,11 +55,12 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmm-07&show_icons=true&locale=en&layout=compact&theme=transparent&hide=html,css" alt="Emmm-07" /></div>
-
-<!--- <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmm-07&show_icons=true&locale=en&theme=dark" alt="Emmm-07" /></div> --->
-
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmm-07&&theme=transparent" alt="Emmm-07" /></div>
+<br>
+<div align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emmm-07&locale=en&hide_title=false&layout=compact&card_width=320&hide=html,css&theme=transparent&border_radius=10&order=2" height="150" alt="languages graph"  />
+       <img src="https://streak-stats.demolab.com?user=emmm-07&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+        <!--- <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmm-07&show_icons=true&locale=en&theme=dark" alt="Emmm-07" /></div> --->
+      
+</div>
 
 ![](https://komarev.com/ghpvc/?username=Emmm-07&style=pixel)
