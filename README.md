@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 [![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
 [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Typescript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindui.com/)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
